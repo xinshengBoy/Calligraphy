@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--引用-->
+        <item name="textFieldStyle">@style/TextField</item>
+    </style>
+
+    <!--自定义字体样式和继承关系-->
+    <style name="TextField" parent="android:Widget.Holo.Light.TextView">
+        <item name="fontPath">fonts/qiaoqiao.ttf</item>
+    </style>
+</resources>
