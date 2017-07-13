@@ -28,4 +28,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     //calligraphy加入自定义字体
     compile 'uk.co.chrisjenx:calligraphy:2.3.0'
+    //二维码扫描
+    compile 'com.acker:simplezxing:1.5'
 }
