@@ -31,3 +31,6 @@
 7，最后在Activity的attachBaseContext（）方法中引用进来。
 ![](https://github.com/zhongzhihuashanghai/Calligraphy/blob/master/FontTTF/images/a7.png)
 
+
+希望大家多多交流：QQ：903111844
+
